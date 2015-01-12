@@ -1,8 +1,8 @@
 # Alpha
 
-![Alpha](README.jpg)
+![Screenshot](README.jpg)
 
-Alpha is HTML template converted for [Grav](http://getgrav.org) by [NunoPress LLC](https://nunopress.com).
+This theme is a port of the [Alpha HTML Template](http://html5up.net/alpha) developed my [HTML5UP](http://html5up.net/) and ported to [Grav](http://getgrav.org) by [NunoPress LLC](https://nunopress.com).
 
 # Installation
 
