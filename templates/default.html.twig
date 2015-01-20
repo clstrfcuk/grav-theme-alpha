@@ -15,7 +15,7 @@
       {% endblock %}
 
       {% block head_title %}
-        <title>{% if page.header.title and page.url(true) != base_url %}{{ page.header.title }} | {% endif %}{{ site.title }}</title>
+        <title>{% if page.header.title and (page.url != base_url or 'error' == page.template) %}{{ page.header.title }} | {% endif %}{{ site.title }}</title>
       {% endblock %}
 
       <link rel="canonical" href="{{ page.url(true) }}" />

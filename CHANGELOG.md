@@ -1,3 +1,12 @@
+# v2.0.1
+## 01/13/2015
+
+1. [](#bugfix)
+  * Add page title for error template.
+
+1. [](#new)
+  * Added error template.
+
 # v2.0.0
 ## 01/11/2015
 
